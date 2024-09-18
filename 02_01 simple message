@@ -1,2 +1,2 @@
-message = "Learning to code"
-print(Learning to code)
+message = "hello Pyhton Crash Course reader!"
+print(message)
